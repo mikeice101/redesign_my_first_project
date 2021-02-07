@@ -1,1 +1,1 @@
-# redesign_my_first_project
+Сделал редизайн первой работы
